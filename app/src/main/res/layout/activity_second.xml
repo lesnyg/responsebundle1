@@ -15,16 +15,18 @@
             android:id="@+id/textViewSecond"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/textViewthird"
+            android:text="@string/textViewSecond"
             android:textAlignment="center"
             android:textSize="24sp" />
 
-        <TextView
-            android:id="@+id/textViewResult"
+        <EditText
+            android:id="@+id/editText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textAlignment="center"
-            android:textSize="24sp" />
+            android:ems="10"
+
+            android:hint="@string/editText"
+            android:inputType="textPersonName" />
 
         <Button
             android:id="@+id/buttonBack"
