@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">responsebundle1</string>
+    <string name="textViewTitle">First Activity</string>
+    <string name="editText">내용을 입력하세요</string>
+    <string name="textViewthird">Second Activity</string>
+    <string name="buttonBack">Back</string>
 </resources>
